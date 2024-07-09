@@ -1,8 +1,9 @@
 ![Simply the best ;)](https://img.shields.io/badge/simply-the%20best%20%3B%29-orange)
 
+# Spring Boot 3.0 by default use CGLib proxy
+
 <img align="right" src="./images/spring-pro-6-best-book-for-certification.png">
 
-# Spring Boot 3.0 by default use CGLib proxy
 Thank you Iuliana [@iuliana](https://github.com/iuliana) Cosmina for `Spring Pro 6`: it is one of the best books for preparation for VMWare Spring Professional Certification.
 I think that the best way to prepare for certification read that book and some practical experience.
 
